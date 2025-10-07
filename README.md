@@ -35,7 +35,7 @@ Event Management System/
    cd "Event Management System"
    ```
 
-2. Set up the backend:
+2. Set up the backend
    ```bash
    cd backend
    pip install -r requirements.txt
@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Email: josephbrightakpan@gmail.com
 
-Project Link: [https://github.com/Dev-Kelz/Event-Management-System](https://github.com/Dev-Kelz/event-management-system)
+Project Link: [https://github.com/CodeByBright/Event-Management-System](https://github.com/CodeByBright/event-management-system)
