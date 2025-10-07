@@ -1,0 +1,29 @@
+# Frontend Requirements (Expo / React Native)
+# This file is informational; install via `npm install` using package.json.
+
+# Core
+expo==54.0.0
+react==19.1.0
+react-native==0.81.4
+
+# Navigation
+@react-navigation/bottom-tabs==7.4.6
+@react-navigation/native==7.1.14
+@react-navigation/stack==7.4.2
+
+# Expo SDK packages
+expo-checkbox==5.0.7
+expo-image-picker==17.0.8
+expo-linear-gradient==15.0.7
+expo-status-bar==3.0.8
+
+# React Native libs
+react-native-safe-area-context==5.6.0
+react-native-screens==4.16.0
+react-native-swiper==1.6.0
+react-native-vector-icons==10.3.0
+@react-native-community/checkbox==0.5.20
+react-native-linear-gradient==2.8.3
+
+# Dev
+@babel/core==7.26.0
