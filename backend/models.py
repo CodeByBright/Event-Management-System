@@ -13,6 +13,9 @@ class User(Base):
     is_active = Column(Boolean, default=True)
     created_at = Column(Date, default=datetime.utcnow)
     updated_at = Column(Date, default=datetime.utcnow, onupdate=datetime.utcnow)
+     created_at = Column(Date, default=datetime.utcnow)
+    updated_at = Column(Date, default=datetime.utcnow, onupdate=datetime.utcnow)
+
 
 class Event(Base):
     __tablename__ = "events"
